@@ -4,7 +4,7 @@ This is a basic api, accepting HTTP get request and responding with a confused a
 #####Setup
 ```
 > git clone https://github.com/jamesonthies/Confused-API.git
-> cd confused-API
+> cd Confused-API
 > npm install
 > node server.js
 ```

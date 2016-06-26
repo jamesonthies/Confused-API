@@ -4,13 +4,13 @@ function aResponse(){
     case 0:
       return('Excuse me?');
     case 1:
-      return('Sorry?');
+      return('One more time');
     case 2:
       return('And what does that mean?');
     case 3:
-      return('pardon?');
+      return('What was that?');
     case 4:
-      return('come again?');
+      return('Come again?');
     default:
       return('I did not catch that');
   }
