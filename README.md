@@ -8,4 +8,4 @@ This is a basic api, accepting HTTP get request and responding with a confused a
 > npm install
 > node server.js
 ```
-After this, make get request to localhost:3090/doesnt-matter
+After this, make get request to 'localhost:3090/'
